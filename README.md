@@ -13,7 +13,7 @@ Hi! My name is Cristian, I'm student and Tech enthusiast, and I'm living in Buch
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dicacristian&show_icons=true&locale=en" alt="dicacristian" /></p>
 
-## Personal Projects
+# Personal Projects
 
   ## :one: Manual QA Projects
 
